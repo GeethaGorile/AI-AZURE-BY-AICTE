@@ -27,8 +27,13 @@ python main.py
 - Enter a landmark name and optionally select a language for translation.
 - Click Get Description to retrieve AI-generated insights.
 - Explore additional features such as speech synthesis, PDF saving, and Google Maps AR.
-License
+
+**##License**
+
 This project is licensed under MIT License.
-Author
+
+
+**Author**
+
 Developed by Gorile Geetha. Feel free to contribute and improve this app!
 
