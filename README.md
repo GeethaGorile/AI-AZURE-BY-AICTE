@@ -13,6 +13,7 @@ This Python-based GUI application helps users retrieve landmark descriptions, fu
 - Provide text-to-speech (TTS) functionality with multilingual support.
 
 ## Dependencies
+
 Ensure you have the following Python libraries installed:
 '''bash
 pip install tkinter google-generativeai googletrans pyttsx3 requests geocoder Pillow geopy webbrowser gtts reportlab
